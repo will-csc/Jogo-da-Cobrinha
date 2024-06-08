@@ -2,12 +2,12 @@
 
 Olá! 👋
 Nesse repositorio os senhores vão encontrar o jogo da cobrinha, com base em um
-modelo do canal "Tech With Tim"
+modelo do canal "Bro Code"
 
 Se precisarem de mais informações ou assistência, estou aqui para ajudar!
 
 # CRÉDITOS ESPECIAIS
-Fonte de inspiração = Canal "Tech With TIM"
+Fonte de inspiração = Canal "Bro Code"
 
 ## Principal Linguagem Utilizada
 <img src="https://skillicons.dev/icons?i=python" />
